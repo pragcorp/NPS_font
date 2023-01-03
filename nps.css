@@ -7,8 +7,8 @@
     font-weight: 0;
     font-display: swap;
     src: local('NPSmedium'),
-    url('../fonts/NPSmedium.woff') format('woff'),
-    url('../fonts/NPSmedium.woff2') format('woff2');
+    url('NPSmedium.woff') format('woff'),
+    url('NPSmedium.woff2') format('woff2');
 }
 
 
@@ -18,7 +18,7 @@
     font-weight: 100;
     font-display: swap;
     src: local('NPSbold'),
-    url('../fonts/NPSbold.woff') format('woff'),
-    url('../fonts/NPSbold.woff2') format('woff2');
+    url('NPSbold.woff') format('woff'),
+    url('NPSbold.woff2') format('woff2');
 }
 
