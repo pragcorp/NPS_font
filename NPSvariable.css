@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'NPS Variable';
+	font-weight: 0 1000;
+	font-style: normal;
+	font-display: swap;
+	src: url('NPSVariable.woff2') format('woff2-variations');
+}
