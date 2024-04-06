@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'NPS'; 
-	font-weight: 000 1000;
+	font-weight: 0 1000;
 	font-style: normal;
 	font-display: swap; 
 	src: url('NPSV.ttf') format('truetype-variations'); /* 폰트 파일의 경로와 포맷을 설정하세요 */
