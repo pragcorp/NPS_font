@@ -3,5 +3,5 @@
 	font-weight: 100 1000;
 	font-style: normal;
 	font-display: swap; 
-	src: url('.NPSV.ttf') format('truetype'); /* 폰트 파일의 경로와 포맷을 설정하세요 */
+	src: url('NPSV.ttf') format('truetype'); /* 폰트 파일의 경로와 포맷을 설정하세요 */
 }
