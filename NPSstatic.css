@@ -3,6 +3,5 @@
   	font-style: normal;
     font-display: swap;
     font-weight: 1000;
-    src: local('NPS 1000'),
-    url('./NPSstatic/NPSVariable-CHAR1000.woff2') format('woff2');
+    src: url('./NPSstatic/NPSVariable-CHAR1000.woff2') format('woff2');
 }
