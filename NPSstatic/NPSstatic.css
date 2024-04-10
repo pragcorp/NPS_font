@@ -1,1 +1,8 @@
 
+@font-face {
+    font-family: 'NPS';
+    font-weight: 0;
+    font-display: swap;
+    src: local('NPS0'),
+    url('./NPSstatic/NPSVariable-CHAR0.woff2') format('woff2');
+}
